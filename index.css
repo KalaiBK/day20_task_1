@@ -1,0 +1,14 @@
+.dropdown-menu{
+    height:20em;
+    overflow-y:auto;
+}
+
+.calendarContainer{
+    height:30em;
+}
+
+.calendarHeader{
+    height:10em;
+    background: #1abc9c;
+    color: white;
+}
